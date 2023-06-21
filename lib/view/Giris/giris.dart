@@ -4,21 +4,12 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:pertys_pro/view/main.dart';
+import 'package:pertys_pro/main.dart';
 import 'package:pertys_pro/service/service.dart';
 import 'package:pertys_pro/view/Bilgisayarlar/secondPC.dart';
 import 'package:pertys_pro/view/Bilgisayarlar/thirdPC.dart';
 import 'package:pertys_pro/view/Giris/kayit_ol.dart';
 import 'package:pertys_pro/view/Telefonlar/secondTLP.dart';
-
-import '../Doviz/döviz.dart';
-
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
-
-  runApp(SecondPagePC());
-}
 
 class Login extends StatelessWidget {
   @override

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:pertys_pro/view/main.dart';
+import 'package:pertys_pro/main.dart';
 import 'package:pertys_pro/view/Telefonlar/secondTLP.dart';
 import 'package:google_fonts/google_fonts.dart';
 
