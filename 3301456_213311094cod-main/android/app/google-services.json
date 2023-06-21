@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28091330900",
+    "project_id": "perty-pro-project",
+    "storage_bucket": "perty-pro-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28091330900:android:5d2ae789d5d22ac898d8c1",
+        "android_client_info": {
+          "package_name": "com.example.pertys_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzF9sg4MloRAi6DljllkPmiZlXFv_E2hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
